@@ -1,0 +1,2 @@
+# eventaggregator
+Eventaggregator in Go
